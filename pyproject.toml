@@ -1,0 +1,11 @@
+[project]
+name = "narb-research"
+version = "0.1.0"
+description = "A research aimed at indexing a catalog of National Archive of Belarus (NARB)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "marimo[lsp]>=0.14.15",
+    "python-lsp-server>=1.13.0",
+    "ruff>=0.12.7",
+]

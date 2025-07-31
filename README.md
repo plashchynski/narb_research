@@ -1,1 +1,5 @@
-# narb_research
+# NARB Research
+
+```
+uv run marimo edit
+```
